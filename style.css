@@ -1,51 +1,23 @@
 .sticky{
+background-color: red;
 position: sticky;
 top: 1px;
 left: 20px;
 width: 300px;
-border: 3px solid skyblue;
+border: 3px solid navy;
 }
 
 .fixed{
+    background-color: green;
     position: fixed;
     top: 100px;
     right: 20px;
     width: 300px;
-    border: 3px solid green;
+    border: 3px solid pink;
     }
     
     .static{
+    background-color: blueviolet;
      width: 300px;
-    border: 3px solid red;        
+    border: 3px solid orange;        
     }
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
